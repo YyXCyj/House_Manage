@@ -11,11 +11,18 @@
 项目中解决方案
 
 >>前后端分离工程构建解决方案（Reactjs+Ant Design+Node.js+Npm+webpack）
+>>
 >>SOA解决方案（Dubbo）
+>>
 >>Spring全家桶解决方案（SpringBoot+SpringData）
+>>
 >>微信授权登录解决方案（微信小程序）
+>>
 >>前后端分析接口服务解决方案（RESTful+GraphQL）
+>>
 >>云存储解决方案（OSS）
+>>
 >>容器化解决方案（Docker）
+>>
 >>MySQL集群解决方案
 
