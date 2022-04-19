@@ -6,6 +6,6 @@
 
 系统架构
 
-https://github.com/YyXCyj/House_Manage/blob/master/images/11.png
+![构架图](https://github.com/YyXCyj/House_Manage/blob/master/images/11.png)
 
 
